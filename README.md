@@ -11,7 +11,7 @@ El tráfico SSL/TLS asegura la comunicación entre cliente y servidor, protegien
 
 ![alt text](/ANEXOS/image_1.png)
 
-![alt text](/ANEXOS/image_2.png)
+![alt text](/ANEXOS/image_desen.png)
 
 
 
